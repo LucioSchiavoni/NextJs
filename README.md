@@ -1,2 +1,2 @@
 # NextJs
-Fullstack con NextJs
+Fullstack con NextJs, MongoDB y React usando Tailwindcss
